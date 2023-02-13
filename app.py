@@ -1,7 +1,6 @@
 import streamlit as st
 from ipl_analysis import *
 import plotly.express as px
-from ipl_analysis import  matches,df1
 
 
 st.set_page_config(layout="wide")
