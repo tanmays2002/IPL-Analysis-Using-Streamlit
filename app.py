@@ -3,6 +3,7 @@ from ipl_analysis import *
 import plotly.express as px
 
 
+
 st.set_page_config(layout="wide")
 st.header('------------------------- IPL Data Analysis -----------------------------')
 option = st.sidebar.selectbox('Select Analysis Type',['Batsman Analysis','Bolwer Analysis','Teams Analysis'])
