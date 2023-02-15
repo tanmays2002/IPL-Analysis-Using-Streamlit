@@ -1,7 +1,7 @@
 import streamlit as st
 from ipl_analysis import *
 import plotly.express as px
-
+import matplotlib.pyplot as plt
 
 
 st.set_page_config(layout="wide")
